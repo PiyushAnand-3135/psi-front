@@ -27,8 +27,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="mb-9 text-base leading-relaxed text-body-color dark:text-body-color-dark">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                AI-powered face detection, object recognition, and attendance tracking.
                 </p>
                 <div className="flex items-center">
                   <a
@@ -214,7 +213,7 @@ const Footer = () => {
 
           <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
           <div className="py-8">
-            <p className="text-center text-base text-body-color dark:text-white">
+            {/* <p className="text-center text-base text-body-color dark:text-white">
               Template by{" "}
               <a
                 href="http://uideck.com"
@@ -233,7 +232,7 @@ const Footer = () => {
               >
                 Next.js Templates
               </a>
-            </p>
+            </p> */}
           </div>
         </div>
         <div className="absolute right-0 top-14 z-[-1]">
