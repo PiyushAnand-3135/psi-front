@@ -3,42 +3,42 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "Object Detection",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Object detection was implemented using YOLOv8 , which is a deep learning-based real-time object detection model.",
     image: "/images/blog/blog-01.jpg",
     author: {
-      name: "Samuyl Joshi",
+      name: "Sajal Jha",
       image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      designation: "ML Engineer",
     },
     tags: ["creative"],
     publishDate: "2025",
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "Attendence Tracking",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Uses AI-powered facial recognition to automate attendance tracking in schools, offices, and public spaces.",
     image: "/images/blog/blog-02.jpg",
     author: {
-      name: "Musharof Chy",
+      name: "Piyush Anand",
       image: "/images/blog/author-02.png",
-      designation: "Content Writer",
+      designation: "Software Developer",
     },
     tags: ["computer"],
     publishDate: "2025",
   },
   {
     id: 3,
-    title: "Tips to quickly improve your coding speed.",
+    title: "Behaviour Recognization",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      " Our project leverages AI-powered behavior analysis to monitor crowd movement, unusual activities, and potential security threats in real-time.",
     image: "/images/blog/blog-03.jpg",
     author: {
-      name: "Lethium Deo",
+      name: "Prabhat Teotia",
       image: "/images/blog/author-03.png",
-      designation: "Graphic Designer",
+      designation: "FulLStack Developer",
     },
     tags: ["design"],
     publishDate: "2025",
